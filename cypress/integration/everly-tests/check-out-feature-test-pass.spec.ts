@@ -37,7 +37,7 @@ describe('check out feature test pass', () => {
         TestosteroneTestPage.clickCheckOut()
     })
 
-    it('fill check out shipping payment information form', () => {
+    it('fill shipping payment form correct info', () => {
         //--- classes not created but this is how i would test check out
         //--- this would pass because of correct informatiion entered
         //CheckoutPage.correctShippingInformation()
