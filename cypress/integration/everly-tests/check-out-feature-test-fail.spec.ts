@@ -39,7 +39,7 @@ describe('check out feature test fail', () => {
 
     it('fill check out shipping paymnet information form', () => {
         //--- classes not created but this is how i would test check out
-        //--- this would fail because of correct informatiion entered
+        //--- this would fail because of incorrect informatiion entered
         //CheckoutPage.inorrectShippingInformation()
         //CheckoutPage.incorrectPaymentInformation()
         //ChekoutPage.placeOrder.click()
