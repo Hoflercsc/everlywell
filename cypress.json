@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://www.everlywell.com",
+    "defaultCommandTimeout": 20000,
+    "chromeWebSecurity": false,
+    "experimentalNetworkStubbing": true,
+    "experimentalFetchPolyfill": true,
+    "viewportWidth": 1280,
+    "viewportHeight": 720
+   
+   
+  }
