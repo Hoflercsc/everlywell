@@ -43,6 +43,7 @@ describe('check out feature test pass', () => {
         //CheckoutPage.correctShippingInformation()
         //CheckoutPage.correctPaymentInformation()
         //ChekoutPage.placeOrder.click()
+        //CheckoutPage.verifySucessMessage()
     })
 
     after(() => {

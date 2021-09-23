@@ -43,6 +43,7 @@ describe('check out feature test fail', () => {
         //CheckoutPage.incorrectShippingInformation()
         //CheckoutPage.incorrectPaymentInformation()
         //ChekoutPage.placeOrder.click()
+        //CheckoutPage.verifyErrorMessage()
     })
 
     after(() => {
