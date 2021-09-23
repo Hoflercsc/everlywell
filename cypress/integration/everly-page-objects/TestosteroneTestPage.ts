@@ -1,7 +1,7 @@
 import {Constants} from './Constants'
 
 
-class TestosteroneKitPage {
+class TestosteroneTestPage {
 
     private testosteroneInfoSection = "//h2[@data-testid='heroProductName'][normalize-space(text()) = 'Testosterone Test']"   
     private testosteroneLevelsText = "//div[@data-testid='heroMeasuresText']//span[normalize-space(text()) = 'Measures Levels of Free Testosterone']"      
@@ -96,4 +96,4 @@ class TestosteroneKitPage {
      }
 
 }
-export default new TestosteroneKitPage();
+export default new TestosteroneTestPage();
